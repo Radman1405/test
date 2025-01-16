@@ -1,1 +1,2 @@
-ovo je readme file 
+dodali smo ovo liniju
+a ovu prominija 
